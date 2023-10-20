@@ -1,10 +1,10 @@
-# Github_Large_Files
-##
+# Github_Large_Files <br/><br/>
+
 - This a repository in which you can learn how to upload large files (>100Mb) into your Github. 
   
 - IMPORTANT: ¡You must have previously established your Github ssh key! To do it... visit this link: https://docs.github.com/en/github-ae@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent 
   
- - The text strings in quotes are the ones you have to modify with your personal information.
+ - The **text strings in quotes** are the ones you have to **modify** with your personal information. <br/><br/><br/><br/>
 
    
 
