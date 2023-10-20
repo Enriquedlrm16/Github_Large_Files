@@ -1,6 +1,9 @@
 # Github_Large_Files
-This a repository in which you can learn how to upload large files (>100Mb) into your Github. IMPORTANT: ¡You must have previously established your Github ssh key! 
-To do it... visit this link: https://docs.github.com/en/github-ae@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+- This a repository in which you can learn how to upload large files (>100Mb) into your Github. \
+  
+- IMPORTANT: ¡You must have previously established your Github ssh key! To do it... visit this link: https://docs.github.com/en/github-ae@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent \
+  
+ - The text strings in quotes are the ones you have to modify with your personal information.
 
 1. You have to access to your target folder (in which you have your previously cloned Repository)
    
